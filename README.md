@@ -76,6 +76,7 @@ project and contact information.
 *   [Crunchbits](https://crunchbits.com)
 *   [dediserve](https://www.dediserve.com)
 *   [Deft](https://deft.com)
+*   [DigitalRose](https://digitalrose.com.au/)
 *   [DigitalOcean](https://www.digitalocean.com)
 *   [DreamIT Host](https://dreamithost.com.au)  
     No IPv6.
